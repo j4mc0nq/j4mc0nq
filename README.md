@@ -1,15 +1,18 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Jinno!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Jinno !;" />
 </h1>
 <hr/>
-<h3 align="center">A passionate FullStack Developer from VietNam <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 3.5%></h3>
+<h3 align="center">A passionate FullStack Developer from VietNam 
+<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 3.5%> 
+</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/quycong.it" target="blank"><img src="https://img.shields.io/twitter/follow/quycong.it?logo=twitter&style=for-the-badge" alt="phungquycong"  </p>
+<p align="left"> <a href="https://twitter.com/quycong.it" target="blank"><img src="https://img.shields.io/twitter/follow/jinno.it?logo=twitter&style=for-the-badge" alt="phungquycong"  </p>
 
 - 🔭 I’m currently working on  Information Security.
 
